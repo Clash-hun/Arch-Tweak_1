@@ -2,6 +2,10 @@
 
 Welcome to the **Arch Linux Maintenance Scripts** repository! 🎉 Here you will find two powerful scripts designed to make system updates, cleaning, and maintenance effortless on your Arch Linux setup. 💻✨
 
+<div align="center">
+  <img src="arch.svg" alt="Arch Linux Logo" />
+</div>
+
 ---
 
 ## 📜 Scripts Overview
@@ -71,7 +75,7 @@ bash system_maintenance.sh
 
 ## 🖌️ Screenshots & Visuals
 
-![Arch Linux Logo](https://upload.wikimedia.org/wikipedia/commons/a/a5/Archlinux-icon-crystal-64.svg)  
+![Arch Linux Logo](https://archlinux.org/static/logos/archlinux-logo-dark-90dpi.ebdee92a15b3.png)  
 **Your system, streamlined and optimized!** 🎨
 
 ---
